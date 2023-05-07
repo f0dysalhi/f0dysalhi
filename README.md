@@ -4,15 +4,13 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
  
-- 🌐  &nbsp; <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
+- 🌐 Usage Python &nbsp; <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
 
-- ⚙️ &nbsp;
+- ⚙️ Fav Platform &nbsp;
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-- 🔧 &nbsp;
+- 🔧 For Codage  &nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7) 
-- 🎨 &nbsp; <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
-
 
 <br/>
 
@@ -23,9 +21,9 @@
 
 <br/>
 
-                                             _____                 _ 
-                                            / ____|               (_)
-                                           | (___   __ _ _ __ ___  _ 
-                                            \___ \ / _` | '_ ` _ \| |
-                                             ___) | (_| | | | | | | |
-                                           |_____/ \__,_|_| |_| |_|_|
+             ███████╗░█████╗░██████╗░██╗░░░██╗  ░██████╗░█████╗░██╗░░░░░██╗░░██╗██╗
+             ██╔════╝██╔══██╗██╔══██╗╚██╗░██╔╝  ██╔════╝██╔══██╗██║░░░░░██║░░██║██║
+             █████╗░░███████║██║░░██║░╚████╔╝░  ╚█████╗░███████║██║░░░░░███████║██║
+             ██╔══╝░░██╔══██║██║░░██║░░╚██╔╝░░  ░╚═══██╗██╔══██║██║░░░░░██╔══██║██║
+             ██║░░░░░██║░░██║██████╔╝░░░██║░░░  ██████╔╝██║░░██║███████╗██║░░██║██║        
+             ╚═╝░░░░░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░  ╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝
