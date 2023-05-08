@@ -1,6 +1,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- &nbsp; Develop my skills day after day ,.
+- &nbsp; Hi, I'm a programmer and cyber security student from Morocco. I'm currently learning web development and am passionate about building websites and web applications. When I'm not coding, you can find me exploring new technologies and staying up-to-date with the latest trends in the industry
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
  
