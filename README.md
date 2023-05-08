@@ -4,7 +4,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
  
-- 🌐 Usage Python &nbsp; <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
+- 🌐  &nbsp; <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>                                  <img src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=white"/>
 
 - ⚙️ Fav Platform &nbsp;
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
