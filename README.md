@@ -18,8 +18,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=f0dysalhi&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0dysalhi&theme=buefy&layout=compact" />
 </a>
- <img src="https://tryhackme-badges.s3.amazonaws.com/0xS0my.png" alt="TryHackMe">
-  <script src="https://tryhackme.com/badge/2871671"></script>
+
 <br/>
 
              ███████╗░█████╗░██████╗░██╗░░░██╗  ░██████╗░█████╗░██╗░░░░░██╗░░██╗██╗
